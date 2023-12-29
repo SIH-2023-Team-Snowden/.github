@@ -16,6 +16,6 @@
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Ansh Dixit" src="https://github.com/SIH-2023-Team-Snowden/.github/blob/main/blank-profile-picture.png">  Ansh Dixit |  <img width="1604" alt="Shishir Tomar" src="https://github.com/SIH-2023-Team-Snowden/.github/blob/main/blank-profile-picture.png"> Shishir Tomar |<img width="1604" alt="Riya Saxena" src="https://github.com/SIH-2023-Team-Snowden/.github/blob/main/blank-profile-picture.png">|
+|<img width="1604" alt="Ansh Dixit" src="https://github.com/SIH-2023-Team-Snowden/.github/blob/main/blank-profile-picture.png">  Ansh Dixit |  <img width="1604" alt="Shishir Tomar" src="https://github.com/SIH-2023-Team-Snowden/.github/blob/main/blank-profile-picture.png"> Shishir Tomar |<img width="1604" alt="Riya Saxena" src="https://github.com/SIH-2023-Team-Snowden/.github/blob/main/blank-profile-picture.png"> Riya Saxena|
 |<img width="1604" alt="Sagarika" src="https://github.com/SIH-2023-Team-Snowden/.github/blob/main/blank-profile-picture.png">  Sagarika |  <img width="1604" alt="Tejeshwar" src="https://github.com/SIH-2023-Team-Snowden/.github/blob/main/blank-profile-picture.png"> Tejeshwar |<img width="1604" alt="Dhananjay" src="https://github.com/SIH-2023-Team-Snowden/.github/blob/main/blank-profile-picture.png"> Dhananjay|
 
